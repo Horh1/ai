@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LeadPilot AI — PATCH 03 FIXED
 
 This patch fixes the Supabase RPC error:
@@ -32,3 +33,6 @@ For production verification:
 ```bash
 npm run build
 ```
+=======
+# ai
+>>>>>>> 8930816cc901f6d09167d3427aba892f078d5b38
